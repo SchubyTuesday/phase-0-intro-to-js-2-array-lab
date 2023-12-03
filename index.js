@@ -5,5 +5,5 @@ function destructivelyAppendCat(name) {
 }
 
 function destructivelyPrependCat(name) {
-    cats = [name, ...cats]
+    cats = [name, ...cats ]
 }
